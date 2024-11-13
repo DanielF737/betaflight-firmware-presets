@@ -1,20 +1,12 @@
-#$ TITLE: sugarK HDzero OSD
+#$ TITLE: DanielF737 OSD
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS:hdzero, HD, HDOSD, OSD, sugarK, racing
+#$ KEYWORDS:HD, HDOSD, OSD, DanielF737, cruising
 #$ AUTHOR: DanielF737 
 
 #$ DESCRIPTION: DanielF737 HD OSD settings
-#$ DESCRIPTION: Intended to be used with the HDzero race cameras using 4.3 aspect ratio.
-#$ DESCRIPTION: Information
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION: 
-#$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
-#$ DESCRIPTION: And yes there is an HDzero MSP-OSD preset already
-
-#$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_warn_bitmask = 270333
 set osd_vbat_pos = 14881
